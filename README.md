@@ -33,3 +33,11 @@ terraform apply
 ...
 Enter a value: yes
 ```
+
+# Clean up
+
+```bash
+terraform destroy
+...
+  Enter a value: yes
+```
